@@ -27,20 +27,9 @@ Prerequisites --
 
 A terminal / command prompt
 
-Building:
-
-javac -d bin -source 8 -target 8 Project\*.java
-
-This places .class files in bin/Project.
-
-Note: The application reads & writes the .txt files from the compiled output folder (/build/classes when using most IDEs).  Be sure the two text files are copied there before running.
-
 Running:
 
-cd bin
-java Project.Interface
-
-If you run from an IDE, simply execute Interface.main().
+run "Interface" class
 
 Data Files:
 

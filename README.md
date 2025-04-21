@@ -24,7 +24,8 @@ Getting Started:
 
 Prerequisites --
 
-Java 17 (or later) JDK on your PATH
+**Java 8 or later** JDK on your PATH  
+*(Tested with Java 8 — compatibility flags used if compiled with newer JDKs)*
 
 A terminal / command prompt
 
@@ -32,7 +33,7 @@ Building:
 
 Compile the sources from the repository root:
 
-javac Project/*.java
+javac -d bin -source 8 -target 8 Project\*.java
 
 This places .class files in bin/Project.
 

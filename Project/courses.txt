@@ -1,0 +1,7 @@
+BIO101 biology no_prerequisites study_of_living_things paul 5 3 student1/student2/
+BIO102 cells BIO101/ study_of_cells james 3 3 student4/student2/student3/
+MATH001 math no_prerequisites math_introduction abuKhalid 2 4 student2/student3/
+MATH002 MathematicsII MATH001/ intro_to_Algebra_and_Trigonometry Zaid 5 4
+PHY101 PhysicsI MATH001/ introduction_to_phyisics habibi 4 5
+MATH111 CalclusI MATH002/ Differential_Calculus Ali 5 6
+PHY220 PhysicsII PHY101/MATH111/ introduction_to_the_principles_of_electrics Ali 4 3

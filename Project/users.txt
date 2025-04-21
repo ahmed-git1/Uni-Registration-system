@@ -1,0 +1,7 @@
+admin1 admin 123
+advisor1 advisor 123 student1#MATH001/student3#PHY220/
+advisor2 advisor 123 student1#MATH001/student3#PHY220/
+student1 student 123 BIO101/
+student2 student 123 BIO101/BIO102/MATH001/
+student3 student 123 BIO102/MATH001/
+student4 student 123

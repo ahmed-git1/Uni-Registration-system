@@ -18,8 +18,6 @@ Administrator
 
 * Create, update, or delete courses (code, description, seats, credits …)* Manage user accounts (add / remove) * Inspect system‑wide statistics
 
-Note: The application reads & writes the .txt files from the compiled output folder (/build/classes when using most IDEs).  Be sure the two text files are copied there before running.
-
 Getting Started:
 
 Prerequisites --
@@ -36,6 +34,7 @@ Compile the sources from the repository root:
 javac -d bin -source 8 -target 8 Project\*.java
 
 This places .class files in bin/Project.
+Note: The application reads & writes the .txt files from the compiled output folder (/build/classes when using most IDEs).  Be sure the two text files are copied there before running.
 
 Running:
 

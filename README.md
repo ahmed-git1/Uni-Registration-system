@@ -21,13 +21,13 @@ Administrator
 Project Structure:
 
 Project/
-├── admin.java        # Administrator workflow
-├── advisor.java      # Advisor workflow
-├── data.java         # Shared data access & utilities
-├── student.java      # Student workflow
-├── Interface.java    # Entry point with `main()`
-├── courses.txt       # Course catalogue & enrolments
-└── users.txt         # User accounts & requests
+├─admin.java    # Administrator workflow
+├─advisor.java  # Advisor workflow
+├─data.java     # Shared data access & utilities
+├─student.java  # Student workflow
+├─Interface.java  # Entry point with `main()`
+├─courses.txt   # Course catalogue & enrolments
+└─users.txt     # User accounts & requests
 
 Note: The application reads & writes the .txt files from the compiled output folder (/build/classes when using most IDEs).  Be sure the two text files are copied there before running.
 

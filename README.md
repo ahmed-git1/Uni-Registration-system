@@ -125,10 +125,6 @@ There is no input sanitisation beyond simple menu checks.
 
 Schedules are dummy (hour‐slots increment from 08:00); no real timetable logic.
 
-Author
-
-Your Name – CS102, Your University
-
 License
 
 Released under the MIT License.  See LICENSE for details.

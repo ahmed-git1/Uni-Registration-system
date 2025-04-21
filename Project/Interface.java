@@ -1,5 +1,6 @@
 package Project;
 public class Interface extends data{
+    public Interface() throws Throwable {}
     public static void main(String[] args)throws Throwable{
         
         data info = new data();

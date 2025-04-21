@@ -29,8 +29,6 @@ A terminal / command prompt
 
 Building:
 
-Compile the sources from the repository root:
-
 javac -d bin -source 8 -target 8 Project\*.java
 
 This places .class files in bin/Project.

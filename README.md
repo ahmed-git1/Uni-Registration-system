@@ -23,7 +23,7 @@ Getting Started:
 Prerequisites --
 
 **Java 8 or later** JDK on your PATH  
-*(Tested with Java 8 — compatibility flags used if compiled with newer JDKs)*
+*(Tested with Java 8)*
 
 A terminal / command prompt
 

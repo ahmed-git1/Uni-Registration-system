@@ -32,7 +32,7 @@ Building:
 
 Compile the sources from the repository root:
 
-javac -d bin src/Project/*.java
+javac Project/*.java
 
 This places .class files in bin/Project.
 

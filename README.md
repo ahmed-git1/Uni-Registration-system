@@ -33,18 +33,18 @@ run "Interface" class
 
 Data Files:
 
->users.txt --
+>users.txt:
 
 Each line represents one user:
 
-<username> <role> <password> <misc>
+[username] [role] [password] [misc]
 
 For students misc contains their registered course codes (e.g. BIO101/).
 For advisors misc contains pending requests in the form student#COURSE/.
 
->courses.txt --
+>courses.txt:
 
-<code> <name> <prereqs|no_prerequisites> <description_with_underscores> <instructor> <max_seats> <credits> <enrolled_students>
+[course code] [course name] [Prerequisites] [course description] [instructor] [max seats] [credits] [enrolled students] 
 
 Example:
 
